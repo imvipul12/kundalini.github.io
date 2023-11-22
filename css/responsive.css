@@ -1,0 +1,229 @@
+@media (max-width: 991.98px) {
+
+	/*Global*/
+	.sections-detail {
+		margin: 0 0 30px;
+	}
+	.section-title {
+		font-family: 'Roboto Slab', serif;
+		font-size: 40px;
+		margin: 20px 0;
+		line-height: 40px;
+		letter-spacing: 0.94px;
+		font-weight: 400;
+		color: coral;
+		text-align: center;
+	}
+	.yoga-template .banner .banner-content .site-title {
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 60px;
+		line-height: 40px;
+		font-weight: 500;
+		margin-bottom: 50px;
+		padding-right: 15px;
+	}
+	.site-title1 {
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 50px;
+		line-height: 50px;
+		font-weight: 300;
+		margin-top: 120px;
+		margin-bottom: 40px;
+		padding-right: 15px;
+		text-align: center;
+	}
+	.site-title2 {
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 30px;
+		line-height: 50px;
+		font-weight: 300;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		padding-right: 15px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		border-bottom: 2px solid black;
+		padding-bottom: 20px;
+		width: 50%;
+	}
+	.site-title3 {
+		font-family: 'Josefin Sans', sans-serif;
+		font-size: 30px;
+		line-height: 50px;
+		font-weight: 300;
+		margin-top: 20px;
+		margin-bottom: 10px;
+		padding-right: 15px;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
+
+	.yoga-template .banner .banner-content .site-title-desc {
+		font-size: 30px;
+		line-height: 25px;
+		letter-spacing: 0.65px;
+		margin-bottom: 60px;
+		width: 97%;
+	}
+	.site-title-desc1 {
+		font-size: 15px;
+		line-height: 25px;
+		letter-spacing: 0.75px;
+		text-align: justify;
+		margin-bottom: 120px;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;  
+	}
+	.site-title-desc2 {
+		font-size: 15px;
+		line-height: 35px;
+		letter-spacing: 0.25px;
+		text-align: center;
+		margin-bottom: 20px;
+		width: 50%;
+		margin-left: auto;
+		margin-right: auto;
+		border-bottom: 2px solid black;
+		padding-bottom: 20px;  
+	}
+	.site-title-desc3 {
+		font-size: 15px;
+		line-height: 25px;
+		letter-spacing: 0.65px;
+		text-align: center;
+		margin-bottom: 40px;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;  
+	}
+	/*Banner*/
+	.yoga-template .banner .top-bar-left a {
+		font-size:17px;
+	}
+	.yoga-template .banner .banner-content .content-col {
+		padding-left: 30px;
+	}
+	/*Service*/
+	.yoga-template .service-section .service-detail > div {
+		margin-bottom: 40px;
+	}
+	.yoga-template .best-class-club .detail-col-club {
+		padding-right: 15px;
+	}
+	/*Class Yoga Club*/
+	.yoga-template .best-class-club .best-class-club-desc {
+		padding: 60px 30px;
+	}
+	.yoga-template .best-class-club .best-class-club-img {
+		padding: 250px 0;
+	}
+	/*Advantages*/
+	.yoga-template  .advantages-section {
+		padding: 60px 15px;
+	}
+	.yoga-template  .advantages-section {
+		background-image: url(../assets/12.jpg);
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    background-position: center center;
+	}
+	.yoga-template  .advantages-section .section-title{
+		color: #fe86d4;
+	}
+	.yoga-template  .advantages-section .section-title-desc {
+		color: #fff;
+	}
+	.yoga-template .advantages-section .advantages-detail-title {
+		color: #fe86d4;
+    	margin-top: 10px;
+	}
+	.yoga-template .advantages-section .advantages-detail-desc {
+		color: #fff;
+	}
+	.yoga-template .advantages-section .advantages-detail-soul,
+	.yoga-template .advantages-section .advantages-detail-health,
+	.yoga-template .advantages-section .advantages-detail-relax,
+	.yoga-template .advantages-section .advantages-detail-energy,
+	.yoga-template .advantages-section .advantages-detail-mind,
+	.yoga-template .advantages-section .advantages-detail-meditat {
+		width: 100%;	
+		text-align: center;
+		margin: 0 auto 24px;
+	}
+	/*Yoga Place*/
+	.yoga-template .yogaPlace-section .yogaPlace-col > div{
+		margin-bottom: 40px;
+	}
+	/*Contact us*/
+	.yoga-template .contact-section .appointment 
+	.appointment-form .box-select::before {
+	    content: "\f0dd";
+	    font-family: "Font Awesome 5 Free";
+	    position: absolute;
+	    top: 41%;
+	    right: -0.5%;
+	    width: 35px;
+	    height: 38px;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 37px;
+	    color: rgb(255, 255, 255);
+	    background-color: rgb(123, 108, 213);
+	    font-weight: 600;
+	    border-radius: 3px;
+	    transform: translate(-50%, -50%);
+	}
+	.yoga-template .contact-section .appointment 
+	.appointment-form .appointment-form-col-left {
+		padding-right: 15px;
+	}
+	.yoga-template .contact-section .appointment 
+	.appointment-form .appointment-form-col-right {
+		padding-left: 15px;
+	    padding-right: 15px;
+	}
+	/* Trainers*/
+	.yoga-template .trainer-section .trainer-col {
+		margin-bottom: 0px;
+	}
+	.yoga-template .trainer-section .trainer-col > div{
+		margin-bottom: 40px;
+	}
+	/*Copyright*/
+	.yoga-template .footer .copyright,
+	.yoga-template .footer .copyright .social {
+		text-align: center;
+		padding: 20px;
+	}
+}
+@media (max-width: 767.98px)  { 
+	/*Banner*/
+	.yoga-template .banner .top-bar,
+	.yoga-template .banner .top-bar-right {
+		text-align: center;
+	}
+	/*Contact us*/
+	.yoga-template .contact-section .appointment 
+	.appointment-form .box-select::before {
+	    content: "\f0dd";
+	    font-family: "Font Awesome 5 Free";
+	    position: absolute;
+	    top: 41%;
+	    right: -0.6%;
+	    width: 35px;
+	    height: 38px;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 37px;
+	    color: rgb(255, 255, 255);
+	    background-color: rgb(123, 108, 213);
+	    font-weight: 600;
+	    border-radius: 3px;
+	    transform: translate(-50%, -50%);
+	}
+
+}
